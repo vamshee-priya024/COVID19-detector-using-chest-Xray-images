@@ -3,9 +3,8 @@ A deep learning model is built using transfer learning with dataset as sample of
 
 DATASET:
 The COVID-19 X-ray image dataset we’ll be using for this tutorial was curated by Dr. Joseph Cohen, a postdoctoral fellow at the University of Montreal.
-
+https://github.com/ieee8023/covid-chestxray-dataset 
 The next step was to sample X-ray images of healthy patients.
-
 To do so, I used Kaggle’s Chest X-Ray Images (Pneumonia) dataset and sampled 25 X-ray images from healthy patients.
-
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 There are a number of problems with Kaggle’s Chest X-Ray dataset, namely noisy/incorrect labels, but it served as a good enough starting point for this proof of concept COVID-19 detector.
